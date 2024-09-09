@@ -62,7 +62,7 @@ pip install -r requisitos.txt
 📦 Estrutura do Repositório
 
 ``` plaintext
-python-analise-dados/
+ciclo11_Python_Para_Dados/
 │
 ├── modulos/                       # Modulos
 │   ├── mod1_lidando_arquivos/
